@@ -1,0 +1,7 @@
+src/main/java/com/openapi/generator/demo/api/ApiApi.java
+src/main/java/com/openapi/generator/demo/api/ApiApiController.java
+src/main/java/com/openapi/generator/demo/api/ApiApiDelegate.java
+src/main/java/com/openapi/generator/demo/api/ApiUtil.java
+src/main/java/com/openapi/generator/demo/model/CommentDto.java
+src/main/java/com/openapi/generator/demo/model/PostDto.java
+src/main/java/com/openapi/generator/demo/model/PostResponse.java
